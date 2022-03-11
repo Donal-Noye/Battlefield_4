@@ -34,6 +34,22 @@ const routes = [
     }
   },
   {
+    path: '/multiplayer/server-browser',
+    name: 'Server Browser',
+    component: () => import('@/views/ServerBrowser'),
+    meta: {
+      layout: 'without-header',
+    }
+  },
+  {
+    path: '/multiplayer/server-browser/:id',
+    name: 'Server Info',
+    component: () => import('@/views/ServerInfo'),
+    meta: {
+      layout: 'without-header',
+    },
+  },
+  {
     path: '/menu-campaign',
     name: 'MenuCampaign',
     component: () => import('@/views/MenuCampaign'),

@@ -14,7 +14,16 @@
 import { backPage } from '@/use/backPage'
 
 export default {
-  props: ['path', 'name'],
+  props: {
+    path: {
+      type: String,
+      required: true
+    },
+    name: {
+      type: String,
+      required: true
+    }
+  },
   setup() {
     return {
       ...backPage()

@@ -5,9 +5,9 @@
 </template>
 
 <script>
-import TheFeatured from "@/components/Home/TheFeatured.vue";
-import TheShortcuts from "@/components/Home/TheShortcuts.vue";
-import TheRecentlyPlayed from '@/components/Home/TheRecentlyPlayed.vue';
+import TheFeatured from "@/components/TheFeatured.vue";
+import TheShortcuts from "@/components/TheShortcuts.vue";
+import TheRecentlyPlayed from '@/components/TheRecentlyPlayed.vue';
 
 export default {
   setup() {

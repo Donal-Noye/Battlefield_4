@@ -52,11 +52,10 @@
 </template>
 
 <script>
-import AppCard from "../ui/AppCard.vue"
+import AppCard from "./ui/AppCard.vue"
 
 export default {
   setup() {
-    return {};
   },
   components: { AppCard }
 }

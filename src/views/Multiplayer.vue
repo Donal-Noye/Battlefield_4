@@ -37,7 +37,7 @@ export default {
         img: "https://i.ibb.co/x8MfQZQ/squad-join.jpg",
         title: "server browser",
         text: "The old school way of finding that perfect game. Set up your filters and you’re ready to go.",
-        path: "Multiplayer"
+        path: "Server Browser"
       },
       {
         img: "https://i.ibb.co/7WYjCjF/test-range.jpg",

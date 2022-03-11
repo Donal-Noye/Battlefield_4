@@ -19,8 +19,8 @@
 
 <script>
 import AppBreadcrumb from "@/components/ui/AppBreadcrumb";
-import QuickmatchNav from "@/components/Qickmatch/QuickmatchNav";
-import QuickmatchItem from "@/components/Qickmatch/QuickmatchItem";
+import QuickmatchNav from "@/components/QuickmatchNav";
+import QuickmatchItem from "@/components/QuickmatchItem";
 import { breadcrumbPath } from '@/use/breadcrumbPath'
 import { reactive, ref } from "vue";
 

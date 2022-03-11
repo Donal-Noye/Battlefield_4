@@ -49,7 +49,7 @@
 </template>
 
 <script>
-import {computed, reactive} from "vue";
+import { reactive } from "vue";
 
 export default {
   setup() {

@@ -97,8 +97,8 @@ export default {
       }
     }
     .card__bottom {
+      visibility: visible;
       color: $black;
-      opacity: 1;
 
       span {
         transform: translateY(0px);
@@ -149,6 +149,7 @@ export default {
       }
 
       .card__bottom {
+        visibility: visible;
         transform: translateY(0);
       }
     }
@@ -187,8 +188,8 @@ export default {
 
     .card__bottom {
       height: 10px;
+      visibility: visible;
       background-color: #fff;
-      opacity: 1;
       transform: translateY(10px);
     }
   }
@@ -328,7 +329,7 @@ export default {
     width: 100%;
     height: 40px;
 
-    opacity: 0;
+    visibility: hidden;
     border-top: 1px solid rgba($black, .1);
     text-align: center;
 
