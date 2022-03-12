@@ -1,4 +1,5 @@
-# battlefield_4
+Battlefield 4
+https://battlefield4-8cb8f.web.app/# 
 
 ## Pages
 - Home
@@ -32,5 +33,3 @@ npm run serve
 ```
 npm run build
 ```
-
-https://battlefield4-8cb8f.web.app/
