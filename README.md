@@ -1,5 +1,23 @@
 # battlefield_4
 
+## Pages
+- Home
+- Career
+- Watch
+- News
+- Help
+- Multiplayer
+- Battlepacks
+- Quickmatch
+- Squad Join Lobby
+- Server Browser
+- Server Info
+- Menu Campaign
+- Campaign
+- Soldier
+- Store
+- More
+
 ## Project setup
 ```
 npm install
@@ -15,5 +33,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://battlefield4-8cb8f.web.app/
